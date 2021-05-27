@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phyletica/bayesian-lizard-flipping/main?filepath=bayesian-stats.ipynb)
+
 A simple example of Bayesian probability using lizard flipping.
 The lizard flipping was inspired by Luke Harmon's book on phylogenetic
 comparative methods: <https://lukejharmon.github.io/pcm>
